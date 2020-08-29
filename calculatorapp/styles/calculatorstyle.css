@@ -1,13 +1,10 @@
 .mainstyle{
-    border:0.2em solid;
+    border:0.1em solid lightgrey;
     text-align:center ;
     width:30%;
     padding: 20px; 
+    margin:0em 20em;
     
-}
-.headerStyle
-{
-    align-content: center;
 }
 .buttonStyle
 {
@@ -20,5 +17,10 @@
 } 
 .textStyle{
     margin: 0.5em;
-    width: 70%;
+    width: 15em;
+}
+.headerStyle{
+    margin:0.5em 15em 0.5em;
+    width:6em;
+    
 }
