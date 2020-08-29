@@ -1,5 +1,6 @@
 window.addEventListener('load',bindEvent);
 function bindEvent(){
+    document.querySelector("#b1").addEventListener('click',printValButton1);
     document.querySelector("#b2").addEventListener('click',printValButton2);
     document.querySelector("#b3").addEventListener('click',printValButton3);
     document.querySelector("#b4").addEventListener('click',printValButton4);
